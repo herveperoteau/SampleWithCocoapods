@@ -1,5 +1,5 @@
 PODS:
-  - TestPodCarthage (1.0.3)
+  - TestPodCarthage (1.0.4)
 
 DEPENDENCIES:
   - TestPodCarthage (from `https://github.com/herveperoteau/TestPodCarthage.git`)
@@ -10,11 +10,11 @@ EXTERNAL SOURCES:
 
 CHECKOUT OPTIONS:
   TestPodCarthage:
-    :commit: 3a646b3ffbc5949825926e36d36ae78ea3ec4f81
+    :commit: 9f2e21e6847e78717aac1ea597b94b7e4f4b7fee
     :git: https://github.com/herveperoteau/TestPodCarthage.git
 
 SPEC CHECKSUMS:
-  TestPodCarthage: fee1f1baa2f7903d95b145cbc24f7843e7c47eb9
+  TestPodCarthage: 0ae856a9201cd7cd4dd8fefb2ec6ffec9aec1ed3
 
 PODFILE CHECKSUM: 5ca19277c8dd40e9943b0170d516a2ca8fddc56d
 
